@@ -1,6 +1,6 @@
 # 04_matrix_operations
 
-#### School: AShesi University
+#### School: Ashesi University
 #### Course: CS313 - Intermediate Computer Programming (C++)
 #### Week: Week06
 #### Topic: Operator Overloading
